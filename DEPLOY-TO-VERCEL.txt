@@ -1,0 +1,21 @@
+HAMAREE - Vercel-ready static website
+
+All files must be at the deployment root:
+  index.html
+  style.css
+  script.js
+  vercel.json
+  assets/sultan.svg
+  assets/gujjar.svg
+  assets/reebu.svg
+
+Vercel settings:
+  Framework Preset: Other
+  Root Directory: ./
+  Build Command: leave blank
+  Output Directory: leave blank
+
+If using GitHub, push the CONTENTS of this folder to repository root.
+Redeploy. Test https://YOURDOMAIN.vercel.app/assets/sultan.svg
+
+These are illustrative SVG bottle mockups, not actual photos.
